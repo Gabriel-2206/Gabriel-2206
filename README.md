@@ -45,4 +45,24 @@
 
 </p>
 
+<br>
+<br>
+
+-----
+
+<br>
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+<div align="center">
+
+<a href="https://github.com/gabriel-2206/">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gabriel-2206&theme=Javascript-dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/></a>
+	<br>
+ <a href="https://portfolio-gabriel-2206.vercel.app/" target="_blank">Acesse o meu portifólio aqui</a>
+</a>
+</div>
+
 

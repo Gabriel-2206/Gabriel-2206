@@ -1,16 +1,16 @@
 - 👋 Olá, eu sou Gabriel Barbosa, estudando de Análise e desenvolvimento de Sistemas e estou me especializando cada vez mais em tecnologias Front-End
 - 📫 Entre em contato no email: gabrielsbarbosa2206@gmail.com 
-https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only
+https://github-readme-stats.vercel.app/api?username=gabriel-2206&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/gabriel-2206/github-readme-stats#gh-dark-mode-only
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=gabriel-2206&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=gabriel-2206&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-2206&show_icons=true" />
 </picture>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

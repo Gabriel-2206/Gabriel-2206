@@ -61,7 +61,7 @@
 <a href="https://github.com/gabriel-2206/">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gabriel-2206&theme=Javascript-dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/></a>
 	<br>
- <a href="https://portfolio-gabriel-2206.vercel.app/" target="_blank">Acesse o meu portifólio aqui</a>
+ <a href="https://vercel.com/gabriel-2206" target="_blank">Acesse o meu portifólio aqui</a>
 </a>
 </div>
 
